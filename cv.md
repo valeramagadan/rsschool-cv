@@ -19,4 +19,5 @@ def foo():
 6. UX/UI design courses
 7. High degree of Landusing
 8. Intermediate
->[Video preview](https://www.youtube.com/watch?v=EcHSQ-6lt0I&ab_channel=JordiKoalitic "My preview")
+
+[![Video preview](http://img.youtube.com/vi/EcHSQ-6lt0I/0.jpg)](https://www.youtube.com/embed/EcHSQ-6lt0I)
