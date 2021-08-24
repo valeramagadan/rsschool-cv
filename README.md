@@ -1,2 +1,1 @@
-# rsschool-cv
-rsschool-cv
+https://valeramagadan.github.io/rsschool-cv/cv
