@@ -4,14 +4,14 @@
 3. My name is Zakhar. I have good analytical skills, creativity, learn easily and work well in a team.
 4. UI/UX design, html, CSS, Git, Figma
 5. Code:
-```
+```javascript
     function fancyAlert(arg) {
       if(arg) {
         $.facebox({div:'#foo'})
       }
     }
 ```
-```
+```python
 def foo():
     if not bar:
         return True
